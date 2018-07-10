@@ -3,4 +3,4 @@ I talk about why you should optimize you queries to the PI System and then show 
 
 Please see the associated video:
 
-[PI Tip #4 - Speed Up Your PI System Queries, Now!](https://youtu.be/f6ci4HV1pIE)
+[PI Tip #4 - Speed Up Your PI System Queries, Now!](https://youtu.be/2BLQ0jgpKF4)
